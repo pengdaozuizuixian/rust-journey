@@ -1,7 +1,5 @@
-mod math;
-
 fn main() {
-    println!("Hello, world!");
-    let sum = math::add(2, 3);
-    println!("Sum: {}", sum);
+    // Playground — experiment freely here!
+    // Run chapters with: cargo run --example ch01_variables
+    println!("🦀 Rust Journey — ready to learn!");
 }
